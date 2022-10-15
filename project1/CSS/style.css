@@ -1,0 +1,70 @@
+
+body{
+    background-color: rgb(47, 42, 42);
+    color:white;
+    text-decoration: none;
+}
+
+#baslik{
+   background-color: darkblue;
+   text-align: center;
+   width: 200px;
+   height:70px;
+   display:inline-block;  
+   margin-left: 500px;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(0, 136, 255);
+}
+
+.govde {
+    display:inline;
+    list-style:none;
+   
+}
+.link-style {
+    text-align: center;   
+    list-style:none;
+    background-color: rgb(26, 19, 19);
+    margin-left: 450px;
+}
+
+
+
+.liste {
+    float: left;  
+    margin-left: 20px; 
+    margin-bottom: 30px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.resimler{
+
+    height: fit-content;
+    width: fit-content;
+    margin-left: 500px;
+    margin-top: 30px;
+    
+}
+
+.urunler {
+
+    height: fit-content;
+    width: fit-content;
+    margin-left: 500px;
+    margin-top: 30px;
+
+
+}
+.bilgi {
+
+    height: fit-content;
+    width: fit-content;
+    margin-left: 500px;
+    margin-top: 70px;
+
+
+}
